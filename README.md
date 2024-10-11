@@ -1,0 +1,1 @@
+Aplicación python que hace uso del esquema de shamir, el usuario interactua por consola. Entrega un secreto, define la cantidad total y minima de participantes para recuperar el secreto, finalmente el secreto es recuperado
