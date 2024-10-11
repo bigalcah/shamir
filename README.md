@@ -1,1 +1,1 @@
-Aplicación python que hace uso del esquema de shamir, el usuario interactua por consola. Entrega un secreto, define la cantidad total y minima de participantes para recuperar el secreto, finalmente el secreto es recuperado
+Aplicación python que hace uso del esquema de shamir, el usuario interactua por consola. el usuario debe entregar un secreto, definir la cantidad total y minima de participantes para recuperar el secreto,. Finalmente la aplicación devuelve el secreto luego de aplicar la interpolación de Lagrange.
